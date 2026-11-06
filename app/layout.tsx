@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Maison Vell — Haute Couture Runway Lookbook",
+  title: "Verveil Paris — Haute Couture Runway Lookbook",
   description:
     "A runway lookbook where six looks stand in a line into the distance and every drag brings the next one to the front.",
 };

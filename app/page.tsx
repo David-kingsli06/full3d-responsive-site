@@ -352,8 +352,8 @@ export default function MaisonVellPage() {
       {/* Header */}
       <header>
         <div className="r1">
-          <a className="brand wide" href="#" aria-label="Maison Vell">
-            Maison Vell
+          <a className="brand wide" href="#" aria-label="Verveil Paris">
+            Verveil Paris
           </a>
           <nav className="tabs wide" aria-label="Sections">
             {["Runway", "The Maison", "Lookbook", "Shop"].map((tab) => (
@@ -462,7 +462,7 @@ export default function MaisonVellPage() {
             <h2 className="wide">Spring Summer 2027</h2>
             <p>
               A study in softness and strength. The new season collection from
-              Maison Vell blends delicate textures and modern silhouettes,
+              Verveil Paris blends delicate textures and modern silhouettes,
               crafted for a more beautiful tomorrow.
             </p>
           </div>
